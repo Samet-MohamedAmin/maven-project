@@ -15,7 +15,6 @@
     <project.build.sourceEncoding>utf-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>utf-8</project.reporting.outputEncoding>
     
-    <sonar.host.url>${env.HOST_IP}:9090</sonar.host.url>
     <sonar.projectName>bla</sonar.projectName>
     <sonar.login>admin</sonar.login>
     <sonar.password>admin</sonar.password>
